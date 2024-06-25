@@ -46,7 +46,8 @@
 	</scm>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<spring-boot.version>[2.1.7.RELEASE,)</spring-boot.version>
+		<!-- <spring-boot.version>[2.1.7.RELEASE,)</spring-boot.version> -->
+		<spring-boot.version>2.2.2.RELEASE</spring-boot.version>
 		<nutz.version>[1.r.68,)</nutz.version>
 	</properties>
 
@@ -74,10 +75,10 @@
 	</build>
 
 	<repositories>
-		<repository>
+		<!-- <repository>
 			<id>nutz</id>
 			<url>https://jfrog.nutz.cn/artifactory/jcenter</url>
-		</repository>
+		</repository> -->
 		<repository>
 			<id>nutz-snapshots</id>
 			<url>https://nexus.niuqi.cc/repository/nutz-snapshots/</url>
