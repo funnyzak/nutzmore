@@ -19,7 +19,7 @@
 
 # 快照版地址
 
-https://jfrog.nutz.cn/artifactory/snapshots/org/nutz/
+https://nexus.niuqi.cc/service/rest/repository/browse/nutz-snapshots/org/nutz/
 
 ```xml
 	<repositories>
