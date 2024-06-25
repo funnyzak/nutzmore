@@ -25,7 +25,7 @@ https://jfrog.nutz.cn/artifactory/snapshots/org/nutz/
 	<repositories>
 		<repository>
 			<id>nutzcn-snapshots</id>
-			<url>https://jfrog.nutz.cn/artifactory/snapshots</url>
+			<url>https://nexus.niuqi.cc/repository/nutz-snapshots/</url>
 			<snapshots>
 				<enabled>true</enabled>
 			</snapshots>

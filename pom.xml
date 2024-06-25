@@ -70,7 +70,7 @@
 	<repositories>
 		<repository>
 			<id>nutzcn-snapshots</id>
-			<url>https://jfrog.nutz.cn/artifactory/snapshots</url>
+			<url>https://nexus.niuqi.cc/repository/nutz-snapshots/</url>
 			<snapshots>
 				<enabled>true</enabled>
 			</snapshots>
@@ -179,7 +179,7 @@
 		<snapshotRepository>
 			<id>nutzcn-snapshots</id>
 			<name>NutzCN snapshot repository</name>
-			<url>https://jfrog.nutz.cn/artifactory/snapshots</url>
+			<url>https://nexus.niuqi.cc/repository/nutz-snapshots/</url>
 		</snapshotRepository>
 
 		<repository>
