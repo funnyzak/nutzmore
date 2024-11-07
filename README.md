@@ -19,13 +19,13 @@
 
 # 快照版地址
 
-https://nexus.niuqi.cc/service/rest/repository/browse/nutz-snapshots/org/nutz/
+https://dkl.niuqi.cc:1096/service/rest/repository/browse/nutz-snapshots/org/nutz/
 
 ```xml
 	<repositories>
 		<repository>
 			<id>nutzcn-snapshots</id>
-			<url>https://nexus.niuqi.cc/repository/nutz-snapshots/</url>
+			<url>https://dkl.niuqi.cc:1096/repository/nutz-snapshots/</url>
 			<snapshots>
 				<enabled>true</enabled>
 			</snapshots>
