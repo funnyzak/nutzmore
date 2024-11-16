@@ -24,7 +24,7 @@ MongoDB 驱动的薄封装
 	<repositories>
 		<repository>
 			<id>nutzcn-snapshots</id>
-			<url>https://dkl.niuqi.cc:1096/repository/nutz-snapshots/</url>
+			<url>https://nexus.niuqi.cc/repository/nutz-snapshots/</url>
 			<snapshots>
 				<enabled>true</enabled>
 			</snapshots>

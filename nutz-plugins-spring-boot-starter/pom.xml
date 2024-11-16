@@ -81,7 +81,7 @@
 		</repository> -->
 		<repository>
 			<id>nutz-snapshots</id>
-			<url>https://dkl.niuqi.cc:1096/repository/nutz-snapshots/</url>
+			<url>https://nexus.niuqi.cc/repository/nutz-snapshots/</url>
 			<snapshots>
 				<enabled>true</enabled>
 				<updatePolicy>always</updatePolicy>
@@ -95,7 +95,7 @@
 		<snapshotRepository>
 			<id>nutzcn-snapshots</id>
 			<name>NutzCN snapshot repository</name>
-			<url>https://dkl.niuqi.cc:1096/repository/nutz-snapshots/</url>
+			<url>https://nexus.niuqi.cc/repository/nutz-snapshots/</url>
 		</snapshotRepository>
 
 		<repository>
